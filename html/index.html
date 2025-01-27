@@ -7,14 +7,13 @@
   <title>Document</title>
 </head>
 <body>
-  <label for="lang">언어</label> <br> 
-  <select id="lang">
-    <option value="">-- 언어 선택 --</option>
-    <option value="html" selected>HTML</option>
-    <option value="css">CSS</option>
-    <option value="js">자바스크립트</option>
-    <option value="ts">타입스크립트</option>
-  </select>
-
+  <label for="job">현재 직업</label> <br>
+  <input id="job" list="jobs">
+  <datalist id="jobs">
+    <option value="학생">
+    <option value="디자이너">
+    <option value="퍼블리셔">
+    <option value="개발자">
+  </datalist>
 </body>
 </html>
