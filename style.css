@@ -1,2 +1,5 @@
-html { font-size: 14px; }
-div { font-size:  2em; }
+p {
+  /* left, center, right, justify */
+  color: yellow;
+  background-color: #333;
+}
