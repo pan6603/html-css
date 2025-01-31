@@ -1,5 +1,5 @@
 p {
-  /* left, center, right, justify */
-  color: yellow;
-  background-color: #333;
+  background-color: lightblue;
+  margin: 24px;
+  padding: 24px;
 }
