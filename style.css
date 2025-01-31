@@ -1,10 +1,6 @@
-body {
-  text-align: center;
-}
-
 div {
   width: 200px;
   height: 200px;
-  background-color: orangered;
-  margin: 0 auto;
+  border: 5px solid blue;
+  border-radius: 50%;
 }
